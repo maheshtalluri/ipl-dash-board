@@ -1,0 +1,47 @@
+/* Write your CSS here */
+
+.latest-match-bg {
+  display: flex;
+  background-color: #0f172a;
+  width: 1100px;
+  margin-top: 50px;
+  padding: 30px;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 16px;
+  margin-left: 180px;
+}
+
+.competing-team {
+  color: white;
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+.date {
+  color: white;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.venue {
+  color: white;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.competing-team-logo {
+  width: 200px;
+}
+
+.first-innings {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.first-innings-ans {
+  color: white;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
